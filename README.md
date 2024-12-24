@@ -12,6 +12,8 @@ This project is part of the **Cloud Computing** course offered by the Internatio
 
 ### Architectural Framework Design
 - Designed a three-tier AWS VPC (Virtual Private Cloud) architecture.
+   - ![3 Tier AWS VPC](3-tier-aws-vpc.png)
+   - ![ALB & Auto Scaling](alb-and-auto-scaling.png)
 - Defined components and services required for the framework:
   - VPCs, subnets, route tables, and gateways.
   - EC2 instances, security groups, and NAT gateways.
